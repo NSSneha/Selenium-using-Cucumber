@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="5" time="150.986">
+    <testcase classname="Feature to test login functionality in Swag Labs" name="Validate login in Swag Labs" time="14.563">
+        <system-out><![CDATA[Given browser is launched...................................................passed
+And user is on Swag Labs login page.........................................passed
+When user enters standard_user..............................................passed
+And enters secret_sauce.....................................................passed
+Then user is navigated to home page.........................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Feature to test login functionality in Swag Labs" name="Validate login in Swag Labs 2" time="41.247">
+        <system-out><![CDATA[Given browser is launched...................................................passed
+And user is on Swag Labs login page.........................................passed
+When user enters locked_out_user............................................passed
+And enters hello............................................................passed
+Then user is navigated to home page.........................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Feature to test login functionality in Swag Labs" name="Validate login in Swag Labs 3" time="41.25">
+        <system-out><![CDATA[Given browser is launched...................................................passed
+And user is on Swag Labs login page.........................................passed
+When user enters problem_user...............................................passed
+And enters hi...............................................................passed
+Then user is navigated to home page.........................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Feature to test login functionality in Swag Labs" name="Validate login in Swag Labs 4" time="41.787">
+        <system-out><![CDATA[Given browser is launched...................................................passed
+And user is on Swag Labs login page.........................................passed
+When user enters performance_glitch_user....................................passed
+And enters cucumber.........................................................passed
+Then user is navigated to home page.........................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Feature to test login functionality in Swag Labs" name="Validate login in Swag Labs 5" time="11.863">
+        <system-out><![CDATA[Given browser is launched...................................................passed
+And user is on Swag Labs login page.........................................passed
+When user enters standard_user..............................................passed
+And enters secret_sauce.....................................................passed
+Then user is navigated to home page.........................................passed
+]]></system-out>
+    </testcase>
+</testsuite>

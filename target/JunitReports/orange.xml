@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="4" time="111.204">
+    <testcase classname="Feature to test login functionality of Orange Hrm" name="Validate login of Orange Hrm" time="15.835">
+        <system-out><![CDATA[Given chrome browser is launched............................................passed
+And end user is on Orange Hrm login page....................................passed
+When end user inputs Admin..................................................passed
+And user inputs admin123....................................................passed
+Then end user is navigated to homepage......................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Feature to test login functionality of Orange Hrm" name="Validate login of Orange Hrm 2" time="41.529">
+        <system-out><![CDATA[Given chrome browser is launched............................................passed
+And end user is on Orange Hrm login page....................................passed
+When end user inputs locked.................................................passed
+And user inputs hi..........................................................passed
+Then end user is navigated to homepage......................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Feature to test login functionality of Orange Hrm" name="Validate login of Orange Hrm 3" time="40.121">
+        <system-out><![CDATA[Given chrome browser is launched............................................passed
+And end user is on Orange Hrm login page....................................passed
+When end user inputs user...................................................passed
+And user inputs hello.......................................................passed
+Then end user is navigated to homepage......................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Feature to test login functionality of Orange Hrm" name="Validate login of Orange Hrm 4" time="13.447">
+        <system-out><![CDATA[Given chrome browser is launched............................................passed
+And end user is on Orange Hrm login page....................................passed
+When end user inputs Admin..................................................passed
+And user inputs admin123....................................................passed
+Then end user is navigated to homepage......................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
